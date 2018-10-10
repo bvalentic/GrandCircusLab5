@@ -1,0 +1,7 @@
+C:\Users\bvalentic\source\repos\GrandCircusLab5\GrandCircusLab5\bin\Debug\GrandCircusLab5.exe.config
+C:\Users\bvalentic\source\repos\GrandCircusLab5\GrandCircusLab5\bin\Debug\GrandCircusLab5.exe
+C:\Users\bvalentic\source\repos\GrandCircusLab5\GrandCircusLab5\bin\Debug\GrandCircusLab5.pdb
+C:\Users\bvalentic\source\repos\GrandCircusLab5\GrandCircusLab5\obj\Debug\GrandCircusLab5.csprojAssemblyReference.cache
+C:\Users\bvalentic\source\repos\GrandCircusLab5\GrandCircusLab5\obj\Debug\GrandCircusLab5.csproj.CoreCompileInputs.cache
+C:\Users\bvalentic\source\repos\GrandCircusLab5\GrandCircusLab5\obj\Debug\GrandCircusLab5.exe
+C:\Users\bvalentic\source\repos\GrandCircusLab5\GrandCircusLab5\obj\Debug\GrandCircusLab5.pdb
